@@ -1,2 +1,0 @@
-# carloslopezjr.github.io
-Website
