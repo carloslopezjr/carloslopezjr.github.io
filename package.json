@@ -1,9 +1,9 @@
 {
   "name": "Carlos_Lopez",
   "version": "1.5.1",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "Elevate your local business",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "Carlos",
   "scripts": {
     "start": "gulp"
   },
